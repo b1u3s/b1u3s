@@ -1,6 +1,6 @@
 ### Hi,I’m b1u3s 👋
 
-😄 I’m a CTFer@Dubhe, interested in WEB Security.
+😄 I’m a CTFer@Dubhe, interested in WEB Security and Mobile Communications Security.
 
 📚 I’m currently learning PHP and Java Security.
 
