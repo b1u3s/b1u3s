@@ -2,7 +2,7 @@
 
 😄 I’m a CTFer@Dubhe, interested in WEB Security and Mobile Communications Security.
 
-📚 I’m currently learning PHP and Java Security.
+📚 I’m currently learning PHP、Java Security and Mobile Communications Security.
 
 📫 How to reach me: https://b1u3s.me
 
